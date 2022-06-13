@@ -1,4 +1,4 @@
-# myfirstpythonproject
+# My First Python Project
 Hello World Python
 
 ## Cool Title
